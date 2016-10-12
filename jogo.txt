@@ -1,16 +1,4 @@
-# PontaCabecaResolver
-
-Resolve o quebra cabeças: Ponta Cabeça (Estrela) através de algoritmos genéticos, ou força bruta, se você tiver paciência...
-
-
-
-Esse é o jogo que o algoritmo resolve, existem inúmeras variações:
-
-![alt text](https://raw.githubusercontent.com/GustavoHennig/PontaCabecaResolver/master/quebra-cabeca-ponta-cabeca-aviao.jpg =250x "Foto")
-
-
-
-
+﻿
 POPULAÇÃO INICIAL, NÃO USAR
 
 "BLU2", "WHI2", "BLU1", "YEL1"
@@ -75,3 +63,20 @@ FRENTE            CAUDA
 AZUL              AZUL
         CAUDA
         BRANCO
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
