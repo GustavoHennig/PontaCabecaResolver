@@ -6,10 +6,9 @@ Resolve o quebra cabeças: Ponta Cabeça (Estrela) através de algoritmos genét
 
 Esse é o jogo que o algoritmo resolve, existem inúmeras variações:
 
-![alt text](https://raw.githubusercontent.com/GustavoHennig/PontaCabecaResolver/master/quebra-cabeca-ponta-cabeca-aviao.jpg =250x "Foto")
+<img src="https://raw.githubusercontent.com/GustavoHennig/PontaCabecaResolver/master/quebra-cabeca-ponta-cabeca-aviao.jpg" width="300">
 
-
-
+```
 
 POPULAÇÃO INICIAL, NÃO USAR
 
@@ -75,3 +74,4 @@ FRENTE            CAUDA
 AZUL              AZUL
         CAUDA
         BRANCO
+```
